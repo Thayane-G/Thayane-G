@@ -27,10 +27,5 @@
 </div> 
 
 <br><br>
-<div align="center">
-<br><p align="centre"><b>Número de visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Thayane-G}/count.svg" /></p> 
-<br></div>
-
 
 <img width=100%  src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&fontAlignY=32&fontAlign=54&descAlign=53&descAlignY=55&textBg=false&reversal=false"/>
