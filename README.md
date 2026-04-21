@@ -2,9 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ac4db3&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Thayane+Gabriele;Seja+bem+vindo(a)+ao+meu+Github;Sou+desenvolvedora+Back-end;Espero+que+goste+dos+meus+projetos!!;Fico+feliz+com+sua+visita;+:%29)](https://git.io/typing-svg)
 
-
+ 
 <div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thayane-G&layout=compact&hide_border=true&title_color=ac4db3&text_color=ac4db3&bg_color=0d1117" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thayane-G&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Thayane Gabriele status do github" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thayane-G&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 ### Habilidades:
