@@ -1,6 +1,4 @@
-<img width=100%  src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&fontAlignY=32&fontAlign=54&descAlign=53&descAlignY=55&textBg=false&reversal=false"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ac4db3&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Thayane+Gabriele;Seja+bem+vindo(a)+ao+meu+Github;Sou+desenvolvedora+Back-end;Espero+que+goste+dos+meus+projetos!!;Fico+feliz+com+sua+visita;+:%29)](https://git.io/typing-svg)
+##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ac4db3&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Thayane+Gabriele;Seja+bem+vindo(a)+ao+meu+Github;Sou+desenvolvedora+Back-end;Espero+que+goste+dos+meus+projetos!!;Fico+feliz+com+sua+visita;+:%29)](https://git.io/typing-svg)
 
 
 ### Habilidades:
@@ -26,4 +24,4 @@
 
 <br><br>
 
-<img width=100%  src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&fontAlignY=32&fontAlign=54&descAlign=53&descAlignY=55&textBg=false&reversal=false"/>
+
