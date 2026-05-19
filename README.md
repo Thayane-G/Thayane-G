@@ -1,5 +1,4 @@
-##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ac4db3&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Thayane+Gabriele;Seja+bem+vindo(a)+ao+meu+Github;Sou+desenvolvedora+Back-end;Espero+que+goste+dos+meus+projetos!!;Fico+feliz+com+sua+visita;+:%29)](https://git.io/typing-svg)
-
+##Olá, seja bem vindo(a) ao meu GitHub!!
 
 ### Habilidades:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
