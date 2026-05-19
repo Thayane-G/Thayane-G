@@ -8,10 +8,9 @@
 
 <h3 align="left">Principais projetos</h3>
 
-###
+ - Crud De Professores
 
-<p align="left"> - Crud De Professores <br>-<br>-</p>
-
+ - 
 ###
 
 <h3 align="left">Tecnologias</h3>
@@ -46,6 +45,7 @@
 
 ###
 
-<p align="left">Email: thayanegabryele@gmail.com<br>Telefone: (85) 987476555</p>
+- Email: thayanegabryele@gmail.com
+- Telefone: (85) 987476555
 
 ###
