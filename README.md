@@ -9,8 +9,8 @@
 <h3 align="left">Principais projetos</h3>
 
  - PetLar
- - Task Manager
  - Crud De Professores
+ - Task Manager
    
 ###
 
