@@ -8,8 +8,10 @@
 
 <h3 align="left">Principais projetos</h3>
 
- - Crud De Professores
+ - PetLar
  - Task Manager
+ - Crud De Professores
+   
 ###
 
 <h3 align="left">Tecnologias</h3>
