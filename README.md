@@ -8,9 +8,9 @@
 
 <h3 align="left">Principais projetos</h3>
 
+ - Stock Manager
  - PetLar
  - Crud De Professores
- - Task Manager
    
 ###
 
