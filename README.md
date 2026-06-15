@@ -8,7 +8,7 @@
 
 <h3 align="left">Principais projetos</h3>
 
- - Stock Manager
+ - StockManager
  - PetLar
  - Cadastro de Servidores
    
