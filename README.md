@@ -8,9 +8,9 @@
 
 <h3 align="left">Principais projetos</h3>
 
+ - Frosty Colaboradores
  - StockManager
  - PetLar
- - Cadastro de Servidores
    
 ###
 
